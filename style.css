@@ -55,5 +55,10 @@
 
     .contenedor_interno{
         box-shadow:none;
+        .contenedor_interno{
+        box-shadow:none;
+        width: 100vw;  
+        height: 100vh;
+    }
     }
 }
