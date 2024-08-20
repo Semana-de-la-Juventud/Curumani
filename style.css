@@ -101,7 +101,7 @@ section .wave
     width: 100vw;
     height: 15vh;
     border: none;
-    background: url('ola.png');
+    background: url('/ola.png');
     
     background-size: 100vw ;
    
